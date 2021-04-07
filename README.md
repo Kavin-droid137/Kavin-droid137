@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavin-droid137
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Web development projects
+- 🌱 I’m currently learning Dart.
+- 💞️ I’m looking to collaborate on App development projects
 - 📫 How to reach me: Github
 
 <!---
