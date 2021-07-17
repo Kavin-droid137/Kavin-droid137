@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Nothing.
 - 💞️ I’m looking to collaborate on Web development projects
-- 📫 How to reach me: Github
+- 📫 How to reach me: Mail (kavin777ganesh@gmail.com)
 - Learnt Javascript, HTML and CSS
 
 <!---
