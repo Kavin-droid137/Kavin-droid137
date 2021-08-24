@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kavin-droid137
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Nothing.
+- 🌱 I’m currently learning Dart.
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me: Mail (kavin777ganesh@gmail.com)
-- Learnt Javascript, HTML and CSS
+- Learnt React JS, Javascript, HTML and CSS
 
 <!---
 Kavin-droid137/Kavin-droid137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
